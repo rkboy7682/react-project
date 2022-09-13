@@ -1,0 +1,106 @@
+.heading{
+    background-color:whitesmoke;
+    height: auto;
+    width: auto;
+}
+.imagestyle{  
+    box-shadow: 10px 10px 5px grey;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 1000px;
+    height: auto;
+    margin-left: 70px;
+}
+.imge img{
+    float: right;
+    padding-right: 4px;
+    box-shadow: 5px 5px 3px lightseagreen;
+    margin-right: 40px;
+    height: 500px;
+    width: 600px;
+}
+.imge2 img{
+    margin: 30px;
+    padding: 32px;
+}
+.buttonstyle{
+    
+    color: whitesmoke;
+    font-size: x-large;
+    font-weight: 100;
+    font-variant: normal;
+    background-color:rgb(4, 22, 61);
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+}
+.linkstyle1{
+ text-align: center;
+ list-style-type: none;
+ list-style: none;
+ display: flex;
+ flex:start;
+ color: red;
+}
+.linkstyle1 a{
+    text-decoration: none;
+    color: black;
+    background-position: fixed;
+   
+}
+.linkstyle1 li{
+   
+   padding-left: 90px;
+
+   
+}
+.fontstyle{
+    font-size:70px;
+}
+.fontstyle1{
+    font-size: 15px;
+    /* font-weight:lighter; */
+    font-stretch:ultra-condensed;
+    color: dimgrey;
+    line-height: 50px;
+}
+.fontstyle2{
+    text-align:center;
+    color: dimgrey;
+}
+.bodystyle{
+    padding-top: 10px ;
+    padding-left: 90px; 
+    background-color: whitesmoke;
+}
+.liststyle2{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.listmaindiv{
+    
+    height: 400px;
+    width: 500px;
+    float: right;
+}
+.line{
+    height: min-content;
+    margin: 10px;
+    padding: 30px;
+    width: min-content;
+    color: rgb(4, 3, 15);
+}
+.empty{
+    height: 600px;
+    width: 600px;
+    background-color: antiquewhite;
+    float: right;
+}
+/* .layoutstyle{
+    position: fixed;
+    background-color: blueviolet;
+} */
